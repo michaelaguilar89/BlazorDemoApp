@@ -27,3 +27,4 @@ C:\Users\mchla\OneDrive\Documentos\Proyectos\BlazorAppDemo\BlazorAppDemo\obj\Rel
 C:\Users\mchla\OneDrive\Documentos\Proyectos\BlazorAppDemo\BlazorAppDemo\obj\Release\net8.0\BlazorAppDemo.pdb
 C:\Users\mchla\OneDrive\Documentos\Proyectos\BlazorAppDemo\BlazorAppDemo\obj\Release\net8.0\BlazorAppDemo.genruntimeconfig.cache
 C:\Users\mchla\OneDrive\Documentos\Proyectos\BlazorAppDemo\BlazorAppDemo\obj\Release\net8.0\ref\BlazorAppDemo.dll
+C:\Users\mchla\OneDrive\Documentos\Proyectos\BlazorAppDemo\BlazorAppDemo\obj\Release\net8.0\BlazorAppDemo.sourcelink.json
